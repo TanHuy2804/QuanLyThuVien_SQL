@@ -1,0 +1,88 @@
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\PM_QuanLyThuVien.exe.config
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\PM_QuanLyThuVien.exe
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\PM_QuanLyThuVien.pdb
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.MainForm.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.Properties.Resources.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.exe
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.pdb
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.DangKy.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.DocGia.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.NoiQuy.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.QuanLyMuon.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.QuanLyTra.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.DoiMatKhau.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TimKiemSach.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TTCaNhan.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TTNhaXuatBan.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TTSach.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TheLoaiSach.resources
+C:\Users\acera\OneDrive\Desktop\CỦA TUYẾT NY\CỦA TUYẾT NY\CNPM\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.GioiThieu.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\PM_QuanLyThuVien.exe.config
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.exe
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.pdb
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\PM_QuanLyThuVien.exe
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\PM_QuanLyThuVien.pdb
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.DangKy.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.DocGia.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.DoiMatKhau.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.GioiThieu.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.MainForm.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.NoiQuy.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.Properties.Resources.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.QuanLyMuon.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.QuanLyTra.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.ReportPhieuMuon.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TheLoaiSach.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TimKiemSach.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TTCaNhan.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TTNhaXuatBan.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TTSach.resources
+C:\Users\Nguyen Tan Huy\Downloads\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csproj.GenerateResource.Cache
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\PM_QuanLyThuVien.exe.config
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\PM_QuanLyThuVien.exe
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\PM_QuanLyThuVien.pdb
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.DangKy.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.DocGia.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.DoiMatKhau.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.GioiThieu.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.MainForm.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.NoiQuy.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.Properties.Resources.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.QuanLyMuon.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.QuanLyTra.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.ReportPhieuMuon.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TheLoaiSach.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TimKiemSach.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TTCaNhan.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TTNhaXuatBan.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.TTSach.resources
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csproj.GenerateResource.cache
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.exe
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.pdb
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\AxShockwaveFlashObjects.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.Shared.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\ShockwaveFlashObjects.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\stdole.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csproj.AssemblyReference.cache
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\KI_1_NAM_3\TAI_LIEU_HOC_TAP\Cong_Nghe_Phan_Mem\PM_QuanLyThuVien\PM_QuanLyThuVien\PM_QuanLyThuVien\obj\Debug\PM_QuanLyThuVien.csproj.CopyComplete
